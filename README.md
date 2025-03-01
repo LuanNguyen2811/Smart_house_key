@@ -1,1 +1,2 @@
-# Smartkey
+- Code trên board mạch Arduino UNO
+- Sử dụng thư viện liquidcystal i2c
